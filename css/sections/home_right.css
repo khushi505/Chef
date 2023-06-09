@@ -1,0 +1,75 @@
+.home_right .img .src{
+    height: 530px;
+    padding-top: 0px;
+    padding-right: 170px;
+}
+
+.home{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box_first{
+    height: 50px;
+    width: 100px;
+    color: white;
+    padding-left: 70px;
+    padding-top: 10px;
+    margin-top: 10px;
+    position: relative;
+    top: 250px;
+    left: 190px;
+    z-index: 1;
+    text-decoration: solid;
+    background: rgba( 239, 224, 244, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 2px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.video .camera{
+    width: 40px;
+    height: 40px;
+    z-index: 2;
+    position: relative;
+    top: 270px;
+    left: 240px;
+}
+
+.glass_1{
+    display: flex;
+}
+
+.box_second{
+    height: 50px;
+    width: 150px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+    position: relative;
+    bottom: 40px;
+    right: 60px;
+    text-decoration: solid;
+    z-index: 1;
+    background: rgba( 239, 224, 244, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 2px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.calender .date{
+    width: 40px;
+    height: 40px;
+    z-index: 2;
+    position: relative;
+    right: 115px;
+    bottom: 30px;
+}
+
+.glass_2{
+    display: flex;
+}
