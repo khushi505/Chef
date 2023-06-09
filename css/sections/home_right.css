@@ -11,14 +11,16 @@
 
 .box_first{
     height: 50px;
-    width: 100px;
+    width: 120px;
     color: white;
-    padding-left: 70px;
-    padding-top: 10px;
+    padding-left: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: 10px;
     position: relative;
     top: 250px;
     left: 190px;
+    font-family: 'Poppins', sans-serif;
     z-index: 1;
     text-decoration: solid;
     background: rgba( 239, 224, 244, 0.35 );
@@ -44,14 +46,16 @@
 
 .box_second{
     height: 50px;
-    width: 150px;
+    width: 160px;
     color: white;
-    padding-left: 20px;
-    padding-top: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     position: relative;
     bottom: 40px;
     right: 60px;
     text-decoration: solid;
+    font-family: 'Poppins', sans-serif;
     z-index: 1;
     background: rgba( 239, 224, 244, 0.35 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
