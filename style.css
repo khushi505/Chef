@@ -3,8 +3,23 @@
 @import url("css/sections/home_right.css");
 @import url("css/sections/second_left.css");
 @import url("css/sections/second_right.css");
+@import url("css/sections/third_page.css");
 
 *{
     margin: 0;
     padding: 0;
+}
+
+/* Styling the scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(130, 35, 143);
+  width: 10px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 50px;
 }
