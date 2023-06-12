@@ -4,10 +4,11 @@
 @import url("css/sections/second_left.css");
 @import url("css/sections/second_right.css");
 @import url("css/sections/third_page.css");
+@import url("css/sections/fourth_page.css");
 
 *{
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 /* Styling the scrollbar */
