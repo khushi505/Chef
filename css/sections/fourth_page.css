@@ -95,3 +95,7 @@
     display: flex;
     align-items: center;
 }
+
+.mexican_text:hover{
+    background-color: rgba(168, 74, 176, 0.714) ;
+}
