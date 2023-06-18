@@ -5,6 +5,7 @@
 @import url("css/sections/second_right.css");
 @import url("css/sections/third_page.css");
 @import url("css/sections/fourth_page.css");
+@import url("css/sections/review_page.css");
 
 *{
   margin: 0;
@@ -23,37 +24,4 @@
   width: 10px;
   border: 1px solid rgb(0, 0, 0);
   border-radius: 50px;
-}
-
-.review{
-  color: rgba(209, 98, 187, 0.936);
-  font-family: 'Poppins', sans-serif;
-  margin-top: 100px;
-  margin-left: 60px;
-}
-
-.opinion{
-  color: white;
-  font-family: 'Poppins', sans-serif;
-  padding-left: 60px;
-  padding-top: 30px;
-}
-
-.profiles{
-  display: flex;
-}
-
-.profile_1{
-  width: 120px;
-  height: 50px;
-  padding-left: 30px;
-  padding-top: 30px;
-}
-
-.profile_2{
-  width: 120px;
-  height: 50px;
-  padding-top: 30px;
-  position: relative;
-  right: 90px;
 }
