@@ -1,4 +1,4 @@
-# Chef
+# Chef 🧑‍🍳
 
 Hire your personal chef from 😋🍨🍰🧁: https://khushi505.github.io/Chef/
 
