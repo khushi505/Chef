@@ -65,15 +65,15 @@
   }
   
   .copyright{
-    color: white;
+    color:rgb(255, 135, 255);
     font-family: 'Poppins', sans-serif;
-    font-size: 12px;
+    font-size: 13px;
   }
   
   .name{
-    color: white;
+    color:rgb(255, 135, 255);
     font-family: 'Poppins', sans-serif;
-    font-size: 12px;
+    font-size: 13px;
   }
   
   .copy{
@@ -83,3 +83,7 @@
     padding-right: 20px;
   }
   
+  .copy .name a{
+    color: white;
+    text-decoration: none;
+  }
