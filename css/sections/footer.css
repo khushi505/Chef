@@ -1,0 +1,85 @@
+.footer{
+    background-color: black;
+  }
+  
+  .nav_chef_again{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+  }
+  
+  .chef_again{
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+  
+  .nav_logo_again{
+    font-family: 'Signika Negative', sans-serif;
+    color: white;
+    padding-left: 1px;
+    font-size: 20px;
+    padding-top: 35px;
+    margin-left: 0px;
+  }
+  
+  .location_detail{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+  }
+  
+  .call_detail{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+  }
+  
+  .mail_detail{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+  }
+  
+  .location{
+    display: flex;
+    align-items: center;
+  }
+  
+  .call{
+    display: flex;
+    align-items: center;
+  }
+  
+  .mail{
+    display: flex;
+    align-items: center;
+  }
+  
+  .details{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    gap: 60px;
+    justify-content: center;
+  }
+  
+  .copyright{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+  }
+  
+  .name{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+  }
+  
+  .copy{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
